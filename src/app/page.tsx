@@ -10,7 +10,6 @@ const MainCard:FC<CardInfo>= (data): JSX.Element =>{
         <div className="absolute bottom-2 left-4">
           <span className=" text-white text-3xl">{data.title}</span>
         </div>
-        
       </div>
     </div>
   );
